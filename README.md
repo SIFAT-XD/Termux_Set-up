@@ -1,6 +1,7 @@
 # Termux_Set-up
 
 pkg install git
+
 pkg install python
 
 rm -rf Termux_Set-up
